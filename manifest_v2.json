@@ -1,0 +1,67 @@
+{
+  "item": {
+    "id": "com.mc.clicker",
+    "restype": "quick_app",
+    "name": "点击MC",
+    "description": "应用名称\n点击MC（完全免费）\n\n一句话简介\n在手表上点击方块，建造你的方块世界。\n\n详细介绍\n点击MC 是一款 Minecraft 方块主题的放置点击小游戏，专为小屏手表设计，单手即可游玩。\n\n从一块草方块开始，每次点击都会积累方块资源。用资源建造鸡舍、农田、矿洞、刷怪塔，再到下界传送门与末地传送门，一步步把基地扩展到三个世界。\n\n核心玩法\n点击方块：每次点击获得方块，点击越多、成长越快；\n建造自动化：24 种建筑自动产出，价格越高产量越大；\n三大世界：主世界 → 下界 → 末地，逐步解锁传送门；\n限时道具卡：16 种建筑/点击收益倍率卡，按秒、分、时、天分级；\n永久升级：手摇曲柄、机械臂、传送带、流水线、存储终端等 7 项升级；\n方块皮肤：10 种皮肤，从草方块一路收集到绿宝石块；\n成就系统：34 个成就，记录每一次成长；\n转生系统：重置进度换取永久加成，越转越强；\n离线收益：离开一段时间回来也能收获方块。\n特色\n专为手表小屏优化，点击区域大、操作简单；\n单机运行，无需联网；\n无广告、无内购；\n自动保存进度，退出重进不丢档；\n适配小米手环 9 / 9 Pro / 10 / 10pro / 11Vela 设备",
+    "preview": [
+      "media/Band10-2026-11-07-23-27-17.png",
+      "media/Band10-2026-11-07-23-27-28.png",
+      "media/Band9pro-2026-11-07-23-28-39.png",
+      "media/Band9pro-2026-11-07-23-27-32.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/封面.png",
+    "author": [
+      {
+        "name": "mei",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "爱发电",
+      "url": "https://ifdian.net/a/migame",
+      "icon": "link-simple"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.mc.clicker.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.mc.clicker.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.mc.clicker.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.mc.clicker.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.mc.clicker.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.mc.clicker.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.mc.clicker.release.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
